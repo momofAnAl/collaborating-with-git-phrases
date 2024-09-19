@@ -6,6 +6,9 @@ def chat():
 
 def farewell():
     print("Goodbye, World!")
-
+    
+def love():
+    print("See you again soon!")
+    
 def hi():
     print("Hello!")
